@@ -40,4 +40,10 @@
     </navigator>
   </view>
 
+  <view class="uploader">
+    <navigator url="../typea/typea" open-type="navigate" class="uploader-text">
+      <text>给老子搞道A型题来做！</text>
+    </navigator>
+  </view>
+
 </view>
