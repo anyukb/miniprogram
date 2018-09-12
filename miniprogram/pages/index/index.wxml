@@ -46,4 +46,10 @@
     </navigator>
   </view>
 
+  <view class="uploader">
+    <navigator url="../todo/todo" open-type="navigate" class="uploader-text">
+      <text>我要给你一道A型题！</text>
+    </navigator>
+  </view>
+
 </view>
